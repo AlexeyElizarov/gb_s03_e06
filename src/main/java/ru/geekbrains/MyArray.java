@@ -7,6 +7,8 @@ import static java.util.Collections.reverse;
 
 public class MyArray {
 
+    // check
+
     public static List<Integer> filter(List<Integer> array_in) {
         reverse(array_in);
         List<Integer> array_out = new ArrayList<>();
